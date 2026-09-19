@@ -1,1 +1,1 @@
-# component-corner
+/* CSS generated with assistance from OpenAI ChatGPT. */
